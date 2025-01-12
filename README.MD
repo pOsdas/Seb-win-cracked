@@ -32,8 +32,8 @@ Safe Exam Browser](https://github.com/SafeExamBrowser).
 
 ## Как использовать
 1. Скачайте и установите исходный Safe Exam Browser версии 3.8.0 по ссылке:
-[Для Windows](https://github.com/SafeExamBrowser/seb-win-refactoring) \
-Для других операционных систем взлом не производился 
+[Для Windows](https://github.com/SafeExamBrowser/seb-win-refactoring), \
+для других операционных систем взлом не производился 
 
 2. Скачайте последнюю версию проекта в разделе `releases` и замените исходные файлы браузера на скачанные.
 Примерные пути для Safe Exam Browser: "C:\Program Files\SafeExamBrowser\Application", для SEB Config Tool: "C:\Program Files\SafeExamBrowser\Configuration".
