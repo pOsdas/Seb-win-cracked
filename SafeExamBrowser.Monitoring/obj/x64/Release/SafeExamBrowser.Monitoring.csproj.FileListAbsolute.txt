@@ -1,0 +1,17 @@
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\bin\x64\Release\SafeExamBrowser.Monitoring.dll
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\bin\x64\Release\SafeExamBrowser.Monitoring.pdb
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\bin\x64\Release\SafeExamBrowser.Logging.Contracts.dll
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\bin\x64\Release\SafeExamBrowser.Monitoring.Contracts.dll
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\bin\x64\Release\SafeExamBrowser.Settings.dll
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\bin\x64\Release\SafeExamBrowser.SystemComponents.Contracts.dll
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\bin\x64\Release\SafeExamBrowser.WindowsApi.Contracts.dll
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\bin\x64\Release\SafeExamBrowser.Logging.Contracts.pdb
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\bin\x64\Release\SafeExamBrowser.Monitoring.Contracts.pdb
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\bin\x64\Release\SafeExamBrowser.Settings.pdb
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\bin\x64\Release\SafeExamBrowser.SystemComponents.Contracts.pdb
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\bin\x64\Release\SafeExamBrowser.WindowsApi.Contracts.pdb
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\obj\x64\Release\SafeExamBrowser.Monitoring.csproj.AssemblyReference.cache
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\obj\x64\Release\SafeExamBrowser.Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\obj\x64\Release\SafeExam.F992B2BA.Up2Date
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\obj\x64\Release\SafeExamBrowser.Monitoring.dll
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Monitoring\obj\x64\Release\SafeExamBrowser.Monitoring.pdb
