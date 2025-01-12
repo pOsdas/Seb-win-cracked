@@ -1,0 +1,13 @@
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\bin\x64\Release\SafeExamBrowser.Configuration.dll
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\bin\x64\Release\SafeExamBrowser.Configuration.pdb
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\bin\x64\Release\SafeExamBrowser.Configuration.Contracts.dll
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\bin\x64\Release\SafeExamBrowser.Logging.Contracts.dll
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\bin\x64\Release\SafeExamBrowser.Settings.dll
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\bin\x64\Release\SafeExamBrowser.Configuration.Contracts.pdb
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\bin\x64\Release\SafeExamBrowser.Logging.Contracts.pdb
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\bin\x64\Release\SafeExamBrowser.Settings.pdb
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\obj\x64\Release\SafeExamBrowser.Configuration.csproj.AssemblyReference.cache
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\obj\x64\Release\SafeExamBrowser.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\obj\x64\Release\SafeExam.6B0D3801.Up2Date
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\obj\x64\Release\SafeExamBrowser.Configuration.dll
+C:\Users\Maloy\Source\Repos\seb\SafeExamBrowser.Configuration\obj\x64\Release\SafeExamBrowser.Configuration.pdb
